@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/TMbCzVQt/banner.jpg" alt="banner" border="0" />
+<img src="./img/banner.jpg" alt="banner" border-radius="15px" />
 
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A Self-Taught Web Developer</h3>
