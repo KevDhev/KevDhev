@@ -1,16 +1,23 @@
-## Hi there 👋
+<img src="https://i.ibb.co/TMbCzVQt/banner.jpg" alt="banner" border="0" />
 
-<!--
-**KevDhev/KevDhev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h3 align="center">A Self-Taught Web Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.youtube.com/@KevDhev" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@KevDhev"/></a>
+  <a href = "mailto:kmarrufo62@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/kmarrufo62@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@KevDhev"/></a>
+  <a href="https://www.linkedin.com/in/kevdhev/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="KevDhev"/></a>
+</p>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🟣 About me 🟣</h2>
+<p align="center">I'm a programmer who enjoys building web experiences that combine minimalist aesthetics with intentional functionality. I specialize in front-end development because I believe design and code should work together 🚀✨</p>
+<br/>
+
+<h2 align="center">🔵 Technologies I have worked with 🔵</h2>
+<p align="center">
+  <a href="<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,angular,py,fastapi,sqlite,mysql,git,linux,bash&perline=7"/>
+  </a>
+</p>
+<br/>
