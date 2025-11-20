@@ -11,13 +11,13 @@
 <br/>
 
 <h2 align="center">🟣 About me 🟣</h2>
-<p align="center">I'm a programmer who enjoys building web experiences that combine minimalist aesthetics with intentional functionality. I specialize in front-end development because I believe design and code should work together 🚀✨</p>
+<p align="center">I enjoy developing backend systems and automation tools that efficiently solve real-world problems. I can handle several languages, but Python is my main tool. I specialize in API creation, web scraping, and automating repetitive tasks 🚀✨</p>
 <br/>
 
 <h2 align="center">🔵 Technologies I have worked with 🔵</h2>
 <p align="center">
   <a href="<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,angular,py,fastapi,sqlite,mysql,git,linux,bash&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py,fastapi,sqlite,mysql,git,linux,bash&perline=7"/>
   </a>
 </p>
 <br/>
