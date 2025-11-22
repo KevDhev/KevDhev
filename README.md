@@ -11,13 +11,14 @@
 <br/>
 
 <h2 align="center">🟣 About me 🟣</h2>
-<p align="center">I enjoy developing backend systems and automation tools that efficiently solve real-world problems. I can handle several languages, but Python is my main tool. I specialize in API creation, web scraping, and automating repetitive tasks 🚀✨</p>
+<p align="center">Frontend developer focused on creating intuitive web interfaces. I enjoy transforming ideas into experiences that deliver real value and that users love to use ✨</p>
+<p align="center">I always strive for a good user experience, accessibility, and clean code. I'm constantly learning and improving as a developer 🚀</p>
 <br/>
 
 <h2 align="center">🔵 Technologies I have worked with 🔵</h2>
 <p align="center">
   <a href="<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py,fastapi,sqlite,mysql,git,linux,bash&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,py,fastapi,sqlite,mysql,git,linux,bash&perline=7"/>
   </a>
 </p>
 <br/>
